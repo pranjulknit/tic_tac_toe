@@ -1,8 +1,8 @@
 # tic_tac_toe
 
 # Output Of Screens:-
-
-<image src="https://github.com/pranjulknit/tic_tac_toe/blob/master/screenshots/2.jpg" width="275" height="480">
+<image src="https://github.com/pranjulknit/tic_tac_toe/blob/master/screenshots/1.jpg" width="275" height="480"> &nbsp;&nbsp;&nbsp;
+<image src="https://github.com/pranjulknit/tic_tac_toe/blob/master/screenshots/2.jpg" width="275" height="480"> &nbsp;&nbsp;&nbsp;
 
 ## Getting Started
 
