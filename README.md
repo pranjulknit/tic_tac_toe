@@ -2,8 +2,7 @@
 
 # Output Of Screens:-
 
-<img src="screenshots/1.png" height="480px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="screenshots/2.png" height="480px">&nbsp;&nbsp;&nbsp;&nbsp;
+<image src="https://github.com/pranjulknit/tic_tac_toe/blob/master/screenshots/2.jpg" width="275" height="480">
 
 ## Getting Started
 
