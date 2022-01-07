@@ -1,4 +1,5 @@
 # tic_tac_toe
+   This tic-tac-toe uses minimax algorithm to make bestmoves so that user can't win.
 
 # Output Of Screens:-
 <image src="https://github.com/pranjulknit/tic_tac_toe/blob/master/screenshots/1.jpg" width="275" height="480"> &nbsp;&nbsp;&nbsp;
